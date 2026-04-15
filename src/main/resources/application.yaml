@@ -1,0 +1,16 @@
+#spring:
+#  ai:
+#    openai:
+#      api-key: ${OPENAI_API_KEY}
+#      chat:
+#        options:
+#          model: gpt-5
+#          temperature: 1
+#
+#server:
+#  port: 8080
+#
+#logging:
+#  level:
+#    com.example.poemgenerator: DEBUG
+#    org.springframework.ai: DEBUG
